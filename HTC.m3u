@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2GB.au@SD",2GB Sydney (1080p)
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+#EXTINF:-1 tvg-id="3AW.au@SD",3AW Melbourne (1080p)
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+#EXTINF:-1 tvg-id="6PR.au@SD",6PR Perth (1080p)
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+#EXTINF:-1 tvg-id="9Gem.au@Sydney",9Gem (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+#EXTINF:-1 tvg-id="9Go.au@Sydney",9Go! (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+#EXTINF:-1 tvg-id="9Life.au@Sydney",9Life (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+#EXTINF:-1 tvg-id="10Bold.au@Sydney",10 Bold Adelaide (1080p)
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-id="ABCEntertains.au@Sydney",ABC Entertains (720p)
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="ABCKids.au@Sydney",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney",ABC News
+https://c.mjh.nz/abc-news.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@ACT",ABC TV ACT (720p)
+https://c.mjh.nz/abc-act.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@NSW",ABC TV NSW (720p)
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@NT",ABC TV NT (720p)
+https://c.mjh.nz/abc-nt.m3u8
+#EXTINF:-1 tvg-id="ABCTVPlus.au@Sydney",ABC TV Plus (720p)
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@QLD",ABC TV QLD (720p)
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@SA",ABC TV SA (720p)
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@TAS",ABC TV TAS (720p)
+https://c.mjh.nz/abc-tas.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@VIC",ABC TV VIC (720p)
+https://c.mjh.nz/abc-vic.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au@WA",ABC TV WA (720p)
+https://c.mjh.nz/abc-wa.m3u8
+#EXTINF:-1 tvg-id="AusbizTV.au@SD",ausbiz TV (720p) [Not 24/7]
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Australia",Bloomberg TV Australia (270p)
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 tvg-id="C31Melbourne.au@SD",C31 Melbourne (240p)
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-id="Channel7.au@Sydney",Channel 7 (720p) [Geo-blocked]
+https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
+#EXTINF:-1 tvg-id="Channel9.au@Adelaide",Channel 9 Adelaide (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
+#EXTINF:-1 tvg-id="Channel9.au@Brisbane",Channel 9 Brisbane (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8
+#EXTINF:-1 tvg-id="Channel9.au@Perth",Channel 9 Perth (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8
+#EXTINF:-1 tvg-id="Channel9.au@Sydney",Channel 9 Sydney (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8
+#EXTINF:-1 tvg-id="Channel44.au@SD",Channel 44 (480p)
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 tvg-id="CTBPerth.au@SD",CTB Perth (720p)
+https://live.ctbperth.net.au/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="CTBPerthMoviesChannel.au@SD",CTB Perth Movies (720p)
+https://movies.ctbperth.net.au/hls/stream.m3u8
+#EXTINF:-1 tvg-id="",CTB Perth News (720p)
+https://news.ctbperth.net.au/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ExpoChannel.au@SD",Expo Channel (360p)
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="HopeChannelAustralia.au@SD",Hope Channel Australia (1080p)
+https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
+#EXTINF:-1 tvg-id="",Race Central TV (720p) [Not 24/7]
+https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
+#EXTINF:-1 tvg-id="Racingcom.au@SD",Racing.com (720p)
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra1.au@SD",Sky News Extra 1 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra2.au@SD",Sky News Extra 2 (540p) [Not 24/7]
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra3.au@SD",Sky News Extra 3 (1080p)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="SkyRacing1.au@SD",Sky Racing 1 (720p) [Geo-blocked]
+https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
+#EXTINF:-1 tvg-id="SkyRacing2.au@SD",Sky Racing 2 (720p) [Geo-blocked]
+https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au@SD",Sky Thoroughbred Central (720p) [Geo-blocked]
+https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
+#EXTINF:-1 tvg-id="",Travel & Food TV (720p)
+https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
+#EXTINF:-1 tvg-id="TVSN.au@SD",TVSN (1080p)
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="TVSNBeauty.au@SD",TVSN Beauty (1080p)
+https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
+#EXTINF:-1 tvg-id="TVSNJewellery.au@SD",TVSN Jewellery (1080p)
+https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
+#EXTINF:-1 tvg-id="AghaniAghaniTV.lb@SD",Aghani Aghani TV (1080p) [Not 24/7]
+https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+#EXTINF:-1 tvg-id="AlIttihadTV.lb@SD",Al Ittihad (552p) [Not 24/7]
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+#EXTINF:-1 tvg-id="AlIttihadTV.lb@SD",Al Ittihad (552p) [Not 24/7]
+https://live.alittihad.tv:444/ittihad/index.m3u8
+#EXTINF:-1 tvg-id="AlJadeed.lb@SD",Al Jadeed (1080p)
+http://185.9.2.18/chid_391/mono.m3u8
+#EXTINF:-1 tvg-id="AlManar.lb@SD",Al Manar (576p) [Not 24/7]
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD",Al Mayadeen (576p)
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.lb@SD",Aliman TV (240p) [Not 24/7]
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ALWifakNewsTV.lb@SD",ALWifak News TV (720p)
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ArabicaTV.lb@SD",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id="CharityTV.lb@SD",Charity TV
+https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CharityTV.lb@SD",CharityTV (1080p) [Not 24/7]
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF:-1 tvg-id="FutureTV.lb@SD",Future TV (1080p)
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb@SD",MTV (1080p) [Not 24/7]
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-id="",MTV (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8
+#EXTINF:-1 tvg-id="NabaaTV.lb@SD",Nabaa TV (720p) [Not 24/7]
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-id="NabaaTV.lb@SD",Nabaa TV (720p) [Not 24/7]
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-id="NabaaTV.lb@SD",Nabaa TV (720p) [Not 24/7]
+https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-id="NourAlKoddass.lb@SD",Nour Al Koddas (406p) [Not 24/7]
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NourAlSharq.lb@SD",Nour Al Sharq (576p)
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NourElShabeb.lb@SD",Nour El Shabeb
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NourMariam.lb@SD",Nour Mariam (576p)
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Noursat.lb@SD",NourSAT (576p)
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NoursatEnglish.lb@SD",Noursat English (576p)
+https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OneTV.lb@SD",One TV (720p) [Not 24/7]
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="OneFM.lb@SD",OneFM (720p) [Not 24/7]
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV.lb@SD",OTV (1080p)
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD",Palestine Al Yawm (720p)
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
+#EXTINF:-1 tvg-id="RedTVLebanon.lb@HD",Red TV Lebanon (1080p)
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SensesTV.lb@SD",Senses TV (1080p)
+http://31.14.41.69:8080/hls/sensesonline/index.m3u8
+#EXTINF:-1 tvg-id="TahaTV.lb@SD",Taha TV
+https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleLiban.lb@SD",Tele Liban (720p) [Not 24/7]
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-id="UNews.lb@SD",UNews
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
+#EXTINF:-1 tvg-id="VoiceofLebanon.lb@SD",Voice of Lebanon (1080p)
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
